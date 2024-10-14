@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
-<h3 align="center">As a Backend Java Developer, I specialize in designing and implementing server-side logic, managing data processing, and handling database interactions. With a strong focus on high performance and scalability, I leverage Java's robust ecosystem and frameworks like Spring Boot to build efficient and maintainable applications.</h3>
+<h3 align="center">As a Backend Java Developer, I specialize in designing and implementing server-side logic, managing data processing, and handling database interactions. With a strong focus on high performance and scalability, I leverage Java's robust ecosystem and frameworks like Spring Boot to build efficient and maintainable applications. Currently, I also have full-stack development capabilities, utilizing Java for the backend and React for the frontend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caleb1123&label=Profile%20views&color=0e75b6&style=flat" alt="caleb1123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caleb1123" alt="caleb1123" /></a> </p>
 
-- 💬 Ask me about **Springboot**
+- 💬 Ask me about **Springboot,React,Docker**
 
 - 📫 How to reach me **ryy1507@gmail.com**
 
