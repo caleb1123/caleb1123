@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
-<h3 align="center">As a Backend Java Developer, I specialize in designing and implementing server-side logic, managing data processing, and handling database interactions. With a strong focus on high performance and scalability, I leverage Java's robust ecosystem and frameworks like Spring Boot to build efficient and maintainable applications. Currently, I also have full-stack development capabilities, utilizing Java for the backend and React for the frontend.</h3>
+<h3 align="center">
+  I'm a passionate Full Stack Developer with a focus on Java and React. 
+  I specialize in designing and implementing server-side logic, managing data processing, 
+  and handling database interactions. With a commitment to high performance and scalability, 
+  I leverage Java's robust ecosystem and frameworks like Spring Boot to build efficient and maintainable applications. 
+  On the frontend, I utilize React to create dynamic and responsive user interfaces. 
+  I'm excited to take on new challenges and collaborate on innovative projects!
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caleb1123&label=Profile%20views&color=0e75b6&style=flat" alt="caleb1123" /> </p>
 
