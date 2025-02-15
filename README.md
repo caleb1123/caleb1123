@@ -36,5 +36,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caleb1123&" alt="caleb1123" /></p>
 
 
+<div align="right">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlxYnNiYWZmNnNjOWhhNG8yM28wZmtvbWF3OXoyOTJyaGtxcHB0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNtchZTL8RAtO/giphy.gif"  />
+</div>
 
+###
+
+<img src="https://raw.githubusercontent.com/caleb1123/caleb1123/output/snake.svg" alt="Snake animation" />
+
+###
 
