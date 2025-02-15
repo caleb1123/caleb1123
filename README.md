@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1; text-align: center;">
-    <h3 style="margin: 0;">
-      I'm a passionate Full Stack Developer with a focus on Java and React. 
-      I specialize in designing and implementing server-side logic, managing data processing, 
-      and handling database interactions. With a commitment to high performance and scalability, 
-      I leverage Java's robust ecosystem and frameworks like Spring Boot to build efficient and maintainable applications. 
-      On the frontend, I utilize React to create dynamic and responsive user interfaces. 
-      I'm excited to take on new challenges and collaborate on innovative projects!
-    </h3>
-  </div>
+<h3 align="center">
+  I'm a passionate Full Stack Developer with a focus on Java and React. 
+  I specialize in designing and implementing server-side logic, managing data processing, 
+  and handling database interactions. With a commitment to high performance and scalability, 
+  I leverage Java's robust ecosystem and frameworks like Spring Boot to build efficient and maintainable applications. 
+  On the frontend, I utilize React to create dynamic and responsive user interfaces. 
+  I'm excited to take on new challenges and collaborate on innovative projects!
+</h3>
   <div style="flex-shrink: 0; margin-left: 20px;">
     <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlxYnNiYWZmNnNjOWhhNG8yM28wZmtvbWF3OXoyOTJyaGtxcHB0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNtchZTL8RAtO/giphy.gif" />
   </div>
