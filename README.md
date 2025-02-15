@@ -9,10 +9,12 @@
       On the frontend, I utilize React to create dynamic and responsive user interfaces. 
       I'm excited to take on new challenges and collaborate on innovative projects!
     </h3>
-    <div style="flex-shrink: 0; margin-left: 20px;">
+  </div>
+  <div style="flex-shrink: 0; margin-left: 20px;">
     <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlxYnNiYWZmNnNjOWhhNG8yM28wZmtvbWF3OXoyOTJyaGtxcHB0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNtchZTL8RAtO/giphy.gif" />
   </div>
-  </div>
+</div>
+
   
 </div>
 
