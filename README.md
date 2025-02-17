@@ -8,18 +8,18 @@
   On the frontend, I utilize React to create dynamic and responsive user interfaces. 
   I'm excited to take on new challenges and collaborate on innovative projects!
 </h3>
-  <div style="flex-shrink: 0; margin-left: 20px;">
+<div style="display: flex; align-items: center;">
+  <div style="flex-shrink: 0; margin-left: 20px; flex: 1;">
     <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlxYnNiYWZmNnNjOWhhNG8yM28wZmtvbWF3OXoyOTJyaGtxcHB0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rNtchZTL8RAtO/giphy.gif" />
+  </div>
+
+  <div style="flex-shrink: 0; margin-left: 20px; flex: 1;">
+    <p align="left"> 
+      <img src="https://komarev.com/ghpvc/?username=caleb1123&label=Profile%20views&color=0e75b6&style=flat" alt="caleb1123" /> 
+    </p>
   </div>
 </div>
 
-  
-</div>
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caleb1123&label=Profile%20views&color=0e75b6&style=flat" alt="caleb1123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caleb1123" alt="caleb1123" /></a> </p>
 
