@@ -26,7 +26,7 @@
 
 - 💬 Ask me about **Springboot,React,Docker**
 
-- 📫 How to reach me **ryy1507@gmail.com**
+- 📫 How to reach me **np277140@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
