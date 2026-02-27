@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <div style="display: flex; align-items: center; justify-content: space-between;">
 <h3 align="center">
-  I'm a passionate Full Stack Developer with a focus on Java and React. 
-  I specialize in designing and implementing server-side logic, managing data processing, 
-  and handling database interactions. With a commitment to high performance and scalability, 
-  I leverage Java's robust ecosystem and frameworks like Spring Boot to build efficient and maintainable applications. 
-  On the frontend, I utilize React to create dynamic and responsive user interfaces. 
-  I'm excited to take on new challenges and collaborate on innovative projects!
+  Full Stack Developer specializing in Java and C#. 
+  Experienced in building scalable backend systems with Spring Boot and developing modern frontend applications with React. 
+  Passionate about clean architecture, performance optimization, and delivering high-quality software solutions.
 </h3>
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; text-align: center;">
